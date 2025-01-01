@@ -692,6 +692,7 @@ section,
 # Skills Section
 --------------------------------------------------------------*/
 .skills .progress {
+  width: 100%;
   height: 60px;
   display: block;
   background: none;
